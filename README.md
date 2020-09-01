@@ -1,4 +1,4 @@
 # quote-system
-This is my Daily Quote System Code :o
+This is my Quote System for my Discord Custom Status
 
 Quotes from [type.fit](https://type.fit)
